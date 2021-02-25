@@ -41,6 +41,5 @@ int main() {
     cout << "NUMBER = " << number << endl;
     cout << fixed << setprecision(2) << "SALARY = U$ " << salary << endl;
 
- 
     return 0;
 }
