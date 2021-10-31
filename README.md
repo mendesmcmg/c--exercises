@@ -1,7 +1,7 @@
 # c++ exercises  
 
 ## Description  
-Gathering of exercises in c++  
+Gathering of exercises in c++. Feel free to join and put some resolutions here.    
 
 ## Suggested course for beginners  
 FreeCodeCamp 
